@@ -9,11 +9,13 @@ Install Grafana and Prometheus in a simple way
 
 ## install Grafana and Prometheus
 clone repository
-```console
-git clone https://github.com/alianjo/grafana-prometheus```
 
+```console
+git clone https://github.com/alianjo/grafana-prometheus
+```
 deploy them
 
 ```console
-./deploy.sh'''
+./deploy.sh
+'''
 
