@@ -17,5 +17,5 @@ deploy them
 
 ```console
 ./deploy.sh
-'''
+```
 
