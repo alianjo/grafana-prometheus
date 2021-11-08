@@ -1,7 +1,7 @@
 # grafana-prometheus
 Install Grafana and Prometheus in a simple way
 ## Prerequisites
-### you need at least cluster with this amount of resource
+### you need at least Kubernetes cluster with 2 nodes and this amount of resource
 |Role|FQDN|IP|OS|RAM|CPU|
 |----|----|----|----|----|----|
 |Master|kmaster.example.com|172.16.16.100|Ubuntu 20.04|2G|2|
